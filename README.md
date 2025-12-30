@@ -96,20 +96,19 @@ I am a **Full-Stack Developer** from Bangladesh, passionate about creating **rel
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Visitor Count
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-jabed&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-jabed&layout=compact&theme=react" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-jabed" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=developer-jabed&show_icons=true&hide_title=true&hide_border=true&theme=react" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-jabed&layout=compact&hide_border=true&theme=react" alt="Top Languages" />
 </p>
 
----
-
-## 👋 Visitor Count
-
 <p align="left">
-  <img src="https://profile-counter.glitch.me/developer-jabed/count.svg" alt="Profile Views"/>
+  <!-- Visitor Count -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/developer-jabed&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
 
 ---
